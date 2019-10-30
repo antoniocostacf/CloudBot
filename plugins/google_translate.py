@@ -126,6 +126,7 @@ lang_pairs = [
     ("fa", "Persian"),
     ("pl", "Polish"),
     ("pt", "Portuguese"),
+    ("pt_br", "Brazilian"),
     ("ro", "Romanian"),
     ("ru", "Russian"),
     ("sr", "Serbian"),
